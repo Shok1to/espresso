@@ -1,26 +1,23 @@
-# espresso
+# My site is live at 
+- https://shok1to.github.io/espresso/
 
+<img alt src="./assets/images/website-preview.png" />
 
+## About
 
-## To do
+- Replaced all div elements with semantic elements
 
-- Replace all <div> elements with semantic elements
-    - header
-    - nav
-    - main
-    - section
-    - aside
-    - article
-    - footer
+- Items are in logical order (CSS)
 
-- Make sure items are in logical order (CSS)
+- Added alt attributes to images
 
-- Add alt attributes to images
+- Heading elements (h1, h2, h3...) flow in sequential order down html page. 
 
-- MAke sure heading elements (h1, h2, h3...) flow in sequential order down html page. X
-
-- Add Title element that makes sense to the web page X
+- Added Title element that makes sense to the web page 
 
 - Consolidate CSS
 
-- Fix broken link X
+- Fixed broken link 
+
+### Contributors
+- Xandromus
